@@ -1,0 +1,233 @@
+lesson  history_of_art assigned b 0
+lesson  theatre_theoretical assigned d 1
+lesson  theatre_12 assigned e 0
+lesson  theatre_practic assigned e 1
+lesson  art_12 assigned e 2
+lesson  photography assigned a 0
+lesson  civics assigned a 0
+lesson  art assigned a 1
+lesson  theatre_11 assigned a 1
+lesson  geography assigned a 2
+lesson  science assigned a 0
+lesson  lashon_70 assigned a 0
+lesson  art_11 assigned b 1
+lesson  lashon_30 assigned a 1
+NOT lessonHasClass phsycology
+lesson  phsycology no slots left
+NOT lessonHasClass phsycology
+lesson  phsycology NOT all students can be assigned a 1 cnt 12
+lesson  phsycology NOT all students can be assigned a 2 cnt 18
+lesson  phsycology NOT all students can be assigned a 3 cnt 21
+lesson  phsycology NOT all students can be assigned b 0 cnt 19
+lesson  phsycology NOT all students can be assigned b 1 cnt 14
+lesson  phsycology NOT all students can be assigned b 2 cnt 16
+lesson  phsycology NOT all students can be assigned c 0 cnt 23
+lesson  phsycology NOT all students can be assigned c 1 cnt 16
+lesson  phsycology NOT all students can be assigned c 2 cnt 19
+lesson  phsycology NOT all students can be assigned d 0 cnt 21
+lesson  phsycology NOT all students can be assigned d 1 cnt 22
+lesson  phsycology NOT all students can be assigned d 2 cnt 15
+lesson  phsycology NOT all students can be assigned d 3 cnt 16
+lesson  phsycology NOT all students can be assigned e 0 cnt 21
+lesson  phsycology NOT all students can be assigned e 1 cnt 21
+lesson  phsycology NOT all students can be assigned e 2 cnt 22
+lesson phsycology Assigned the largest amount possible
+NOT lessonHasClass creative_writing
+lesson  creative_writing no slots left
+NOT lessonHasClass creative_writing
+lesson  creative_writing NOT all students can be assigned a 1 cnt 13
+lesson  creative_writing NOT all students can be assigned a 2 cnt 18
+lesson  creative_writing NOT all students can be assigned a 3 cnt 23
+lesson  creative_writing NOT all students can be assigned b 0 cnt 21
+lesson  creative_writing NOT all students can be assigned b 1 cnt 15
+lesson  creative_writing NOT all students can be assigned b 2 cnt 14
+lesson  creative_writing NOT all students can be assigned c 0 cnt 9
+lesson  creative_writing NOT all students can be assigned c 1 cnt 16
+lesson  creative_writing NOT all students can be assigned c 2 cnt 19
+lesson  creative_writing NOT all students can be assigned d 0 cnt 23
+lesson  creative_writing NOT all students can be assigned d 1 cnt 23
+lesson  creative_writing NOT all students can be assigned d 2 cnt 16
+lesson  creative_writing NOT all students can be assigned d 3 cnt 14
+lesson  creative_writing NOT all students can be assigned e 0 cnt 22
+lesson  creative_writing NOT all students can be assigned e 1 cnt 22
+lesson  creative_writing NOT all students can be assigned e 2 cnt 22
+lesson creative_writing Assigned the largest amount possible
+NOT lessonHasClass literature
+lesson  literature no slots left
+NOT lessonHasClass literature
+lesson  literature NOT all students can be assigned a 1 cnt 14
+lesson  literature NOT all students can be assigned a 2 cnt 12
+lesson  literature NOT all students can be assigned a 3 cnt 8
+lesson  literature NOT all students can be assigned b 0 cnt 19
+lesson  literature NOT all students can be assigned b 1 cnt 12
+lesson  literature NOT all students can be assigned b 2 cnt 16
+lesson  literature NOT all students can be assigned c 0 cnt 11
+lesson  literature NOT all students can be assigned c 1 cnt 18
+lesson  literature NOT all students can be assigned c 2 cnt 13
+lesson  literature NOT all students can be assigned d 0 cnt 19
+lesson  literature NOT all students can be assigned d 1 cnt 20
+lesson  literature NOT all students can be assigned d 2 cnt 13
+lesson  literature NOT all students can be assigned d 3 cnt 16
+lesson  literature NOT all students can be assigned e 0 cnt 20
+lesson  literature NOT all students can be assigned e 1 cnt 19
+lesson  literature NOT all students can be assigned e 2 cnt 21
+lesson literature Assigned the largest amount possible
+lessonHasClass art
+lesson art Assigned the largest amound possible
+lessonHasClass photography
+lesson photography Assigned the largest amound possible
+lessonHasClass civics
+lesson civics Assigned the largest amound possible
+NOT lessonHasClass history_30
+lesson  history_30 no slots left
+NOT lessonHasClass history_30
+lesson  history_30 NOT all students can be assigned a 1 cnt 5
+lesson  history_30 NOT all students can be assigned a 2 cnt 11
+lesson  history_30 NOT all students can be assigned a 3 cnt 8
+lesson  history_30 NOT all students can be assigned b 0 cnt 17
+lesson  history_30 NOT all students can be assigned b 1 cnt 9
+lesson  history_30 NOT all students can be assigned b 2 cnt 11
+lesson  history_30 NOT all students can be assigned c 0 cnt 6
+lesson  history_30 NOT all students can be assigned c 1 cnt 11
+lesson  history_30 NOT all students can be assigned c 2 cnt 11
+lesson  history_30 assigned d 0
+NOT lessonHasClass cinema
+lesson  cinema no slots left
+NOT lessonHasClass cinema
+lesson  cinema NOT all students can be assigned a 1 cnt 2
+lesson  cinema NOT all students can be assigned a 2 cnt 14
+lesson  cinema NOT all students can be assigned a 3 cnt 7
+lesson  cinema NOT all students can be assigned b 0 cnt 15
+lesson  cinema NOT all students can be assigned b 1 cnt 13
+lesson  cinema NOT all students can be assigned b 2 cnt 10
+lesson  cinema NOT all students can be assigned c 0 cnt 7
+lesson  cinema NOT all students can be assigned c 1 cnt 12
+lesson  cinema NOT all students can be assigned c 2 cnt 14
+lesson  cinema NOT all students can be assigned d 0 cnt 11
+lesson  cinema NOT all students can be assigned d 1 cnt 16
+lesson  cinema NOT all students can be assigned d 2 cnt 13
+lesson  cinema NOT all students can be assigned d 3 cnt 10
+lesson  cinema NOT all students can be assigned e 0 cnt 17
+lesson  cinema NOT all students can be assigned e 1 cnt 17
+lesson  cinema NOT all students can be assigned e 2 cnt 9
+lesson cinema Assigned the largest amount possible
+lessonHasClass theatre_theoretical
+lesson theatre_theoretical Assigned the largest amound possible
+lessonHasClass theatre_practic
+lesson theatre_practic Assigned the largest amound possible
+lessonHasClass science
+lesson science Assigned the largest amound possible
+lessonHasClass lashon_70
+lesson lashon_70 Assigned the largest amound possible
+lessonHasClass history_of_art
+lesson history_of_art Assigned the largest amound possible
+NOT lessonHasClass history_70
+lesson  history_70 no slots left
+NOT lessonHasClass history_70
+lesson  history_70 NOT all students can be assigned a 1 cnt 5
+lesson  history_70 NOT all students can be assigned a 2 cnt 9
+lesson  history_70 NOT all students can be assigned a 3 cnt 5
+lesson  history_70 NOT all students can be assigned b 0 cnt 7
+lesson  history_70 NOT all students can be assigned b 1 cnt 8
+lesson  history_70 NOT all students can be assigned b 2 cnt 7
+lesson  history_70 NOT all students can be assigned c 0 cnt 6
+lesson  history_70 NOT all students can be assigned c 1 cnt 10
+lesson  history_70 NOT all students can be assigned c 2 cnt 9
+lesson  history_70 NOT all students can be assigned d 0 cnt 6
+lesson  history_70 NOT all students can be assigned d 1 cnt 7
+lesson  history_70 NOT all students can be assigned d 2 cnt 8
+lesson  history_70 NOT all students can be assigned d 3 cnt 7
+lesson  history_70 NOT all students can be assigned e 0 cnt 7
+lesson  history_70 NOT all students can be assigned e 1 cnt 7
+lesson  history_70 NOT all students can be assigned e 2 cnt 4
+lesson history_70 Assigned the largest amount possible
+NOT lessonHasClass bible
+lesson  bible no slots left
+NOT lessonHasClass bible
+lesson  bible NOT all students can be assigned a 1 cnt 4
+lesson  bible NOT all students can be assigned a 2 cnt 4
+lesson  bible NOT all students can be assigned a 3 cnt 4
+lesson  bible NOT all students can be assigned b 0 cnt 6
+lesson  bible NOT all students can be assigned b 1 cnt 6
+lesson  bible NOT all students can be assigned b 2 cnt 6
+lesson  bible NOT all students can be assigned c 0 cnt 6
+lesson  bible NOT all students can be assigned c 1 cnt 6
+lesson  bible NOT all students can be assigned c 2 cnt 4
+lesson  bible NOT all students can be assigned d 0 cnt 3
+lesson  bible NOT all students can be assigned d 1 cnt 4
+lesson  bible NOT all students can be assigned d 2 cnt 6
+lesson  bible NOT all students can be assigned d 3 cnt 6
+lesson  bible NOT all students can be assigned e 0 cnt 8
+lesson  bible NOT all students can be assigned e 1 cnt 4
+lesson  bible NOT all students can be assigned e 2 cnt 1
+lesson bible Assigned the largest amount possible
+lessonHasClass lashon_30
+lesson lashon_30 Assigned the largest amound possible
+lessonHasClass theatre_11
+lesson theatre_11 Assigned the largest amound possible
+NOT lessonHasClass music
+lesson  music no slots left
+NOT lessonHasClass music
+lesson  music NOT all students can be assigned a 1 cnt 3
+lesson  music NOT all students can be assigned a 2 cnt 5
+lesson  music NOT all students can be assigned a 3 cnt 1
+lesson  music NOT all students can be assigned b 0 cnt 6
+lesson  music NOT all students can be assigned b 1 cnt 6
+lesson  music NOT all students can be assigned b 2 cnt 3
+lesson  music NOT all students can be assigned c 0 cnt 0
+lesson  music NOT all students can be assigned c 1 cnt 5
+lesson  music NOT all students can be assigned c 2 cnt 5
+lesson  music NOT all students can be assigned d 0 cnt 4
+lesson  music NOT all students can be assigned d 1 cnt 1
+lesson  music NOT all students can be assigned d 2 cnt 6
+lesson  music NOT all students can be assigned d 3 cnt 3
+lesson  music NOT all students can be assigned e 0 cnt 4
+lesson  music NOT all students can be assigned e 1 cnt 0
+lesson  music NOT all students can be assigned e 2 cnt 4
+lesson music Assigned the largest amount possible
+lessonHasClass art_12
+lesson art_12 Assigned the largest amound possible
+lessonHasClass theatre_12
+lesson theatre_12 Assigned the largest amound possible
+lessonHasClass music
+lesson music Assigned the largest amound possible
+lessonHasClass science
+lesson science Assigned the largest amound possible
+lessonHasClass art
+lesson art Assigned the largest amound possible
+lessonHasClass bible
+lesson bible Assigned the largest amound possible
+lessonHasClass civics
+lesson civics Assigned the largest amound possible
+lessonHasClass phsycology
+lesson phsycology Assigned the largest amound possible
+lessonHasClass cinema
+lesson cinema Assigned the largest amound possible
+lessonHasClass literature
+lesson literature Assigned the largest amound possible
+lessonHasClass history_of_art
+lesson history_of_art Assigned the largest amound possible
+lessonHasClass photography
+lesson photography Assigned the largest amound possible
+lessonHasClass creative_writing
+lesson creative_writing Assigned the largest amound possible
+lessonHasClass theatre_theoretical
+lesson theatre_theoretical Assigned the largest amound possible
+lessonHasClass lashon_30
+lesson lashon_30 Assigned the largest amound possible
+lessonHasClass theatre_practic
+lesson theatre_practic Assigned the largest amound possible
+lessonHasClass history_30
+lesson history_30 Assigned the largest amound possible
+lessonHasClass history_70
+lesson history_70 Assigned the largest amound possible
+lessonHasClass theatre_11
+lesson theatre_11 Assigned the largest amound possible
+lessonHasClass lashon_70
+lesson lashon_70 Assigned the largest amound possible
+lessonHasClass theatre_12
+lesson theatre_12 Assigned the largest amound possible
+lessonHasClass art_12
+lesson art_12 Assigned the largest amound possible
+Runtime: 32
+json file created
