@@ -1,0 +1,22 @@
+{
+  "name": "bazen",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^1.0.0",
+    "jsonfile": "^2.3.1",
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://urixwd@bitbucket.org/urixwd/bazen.git"
+  },
+  "homepage": "https://bitbucket.org/urixwd/bazen#readme",
+  "description": ""
+}
