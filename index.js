@@ -41,4 +41,3 @@ var file = 'schedule.json'
 jsonfile.writeFile(file, outputJSON, function (err) {
   clog('json file created');
 });
-
